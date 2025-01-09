@@ -8,4 +8,6 @@ Swap and Step encryption now hosted on Streamlit.
 
 2. Click encryption and enter your text
 
- 3.Click decryption to decrypt your text
+3. Click decryption to decrypt your text
+
+
