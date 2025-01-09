@@ -1,19 +1,11 @@
-# 🎈 Blank app template
-
-A simple Streamlit app template for you to modify!
+Swap and Step encryption now hosted on Streamlit.
 
 [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://blank-app-es239s0mhhu.streamlit.app/)
 
-### How to run it on your own machine
+### How to use it
 
-1. Install the requirements
+1. Click the side arrow in the top left corner
 
-   ```
-   $ pip install -r requirements.txt
-   ```
+2. Click encryption and enter your text
 
-2. Run the app
-
-   ```
-   $ streamlit run streamlit_app.py
-   ```
+3.Click decryption to decrypt your text
